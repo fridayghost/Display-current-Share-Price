@@ -1,0 +1,1 @@
+python "E:\Python\Money control Scraping\display share price.py"
